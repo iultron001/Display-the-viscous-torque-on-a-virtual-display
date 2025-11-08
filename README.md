@@ -12,9 +12,10 @@ Fill a brief description of this experiment here
 
 <b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | Rajkiya engineering college banda <b>  
+<b> Email id| ankitdu001@gmail.com   <b>  
+<b> Department |  Infomation technology
+
 
 ### Contributors List
 
