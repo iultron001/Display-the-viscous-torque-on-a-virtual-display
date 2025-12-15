@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Gargi Singh 
+<b>Name of Developer | <b> Dubey Ankit Dilip
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda 
 <b> Email id|     <b> ankitdu001@gmail.com
